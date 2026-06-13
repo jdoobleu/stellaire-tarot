@@ -6,7 +6,7 @@
 
 A daily tarot reading web app with a full 78-card deck and dreamy silver-fog aesthetics. Write today's question (or leave it blank), draw three cards, and receive a personalized reading. The app detects what your question is about and weaves your three cards into a synthesized answer — and because every reading is composed from a large pool of sentence variations, the same card rarely reads the same way twice. Two readings per day, fully bilingual (Korean / English), installable on your phone.
 
-*Final project for AAT2004 <Introduction to Creative Computing>, Sogang University (2026) — Jeongwon Kim*
+*Final project for AAT2004 Introduction to Creative Computing, Sogang University (2026) — Jeongwon Kim*
 
 ---
 
